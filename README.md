@@ -8,7 +8,7 @@ The project integrates embedded programming, sensor fusion, control systems, ele
 
 ## Robot Demonstration
 
-![Robot Demo](src/self-balancing-robot-demo.gif)
+![Robot Demo](src/self-balancing-robot-demo-ezgif.com-gif-maker.gif)
 
 *Animated demonstration of the current robot prototype.*
 
